@@ -52,7 +52,7 @@ section{
     min-hight: 100vh;
     display: flex;
     align-items: center;
-    background-image: url('https://images.app.goo.gl/4RhNwzHDERQ2an316') no-repeat;
+    background: url('https://images.app.goo.gl/4RhNwzHDERQ2an316') no-repeat;
     background-size: cover;
     background-attachmen: fixed;
     
